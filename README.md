@@ -1,5 +1,3 @@
-Here's the README file tailored for your open-sourced Rug Soul project:  
-
 ---
 
 # Rug Soul Logo  
